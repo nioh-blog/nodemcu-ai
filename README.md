@@ -1,2 +1,2 @@
 # nodemcu-ai
-NodeMCU alarm interactive
+NodeMCU homealarm interactive
