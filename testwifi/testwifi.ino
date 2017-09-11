@@ -10,7 +10,7 @@
 #include <ESP8266WiFi.h>
 #include <NTPClient.h>
 #include <EEPROM.h>
-
+//nioh
 
 const char* ssid = "razaodiada";
 const char* password = "brujeria666";
